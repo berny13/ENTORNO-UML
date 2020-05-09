@@ -3,4 +3,4 @@ Tarea sobre Diagramas de clases UML, para la asignatura de Entorno de Desarrollo
 
 
 
-![mockup](./relaciones.png)
+![relaciones](./ENTORNO-UML1/relaciones.png)
